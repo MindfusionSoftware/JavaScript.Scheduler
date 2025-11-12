@@ -2,9 +2,9 @@
 
 ## About MindFusion.Scheduling
 
-MindFusion.Scheduling for JavaScript is a lean and powerful interactive library that lets developers easily create **timetables, calendars with events, resource tables, task schedules, appointment lists** and much more. The control boasts an intuitive API with self-explanatory member names, detailed documentation and many samples. Numerous properties and flexible CSS styling through themes provide full control over the appearance of each item and schedule. All user actions are reported by events. Various built-in forms provide convenient way for the users to create, edit and delete items, recurrences, reminders and appointments.
+MindFusion's [JavaScript Scheduling Library](https://mindfusion.dev/javascript-scheduler.html), a part of [MindFusion.JavaScript Pack](https://mindfusion.dev/javascript-pack.html), is a lean and powerful interactive library that lets developers easily create **timetables, calendars with events, resource tables, task schedules, appointment lists** and much more. The control boasts an intuitive API with self-explanatory member names, detailed documentation and many samples. Numerous properties and flexible CSS styling through themes provide full control over the appearance of each item and schedule. All user actions are reported by events. Various built-in forms provide convenient way for the users to create, edit and delete items, recurrences, reminders and appointments.
 
-The product's web page is [https://mindfusion.dev/javascript-scheduler.html](https://mindfusion.dev/javascript-scheduler.html) and it is part of MindFusion Pack for JavaScript, which can be downloaded at [https://mindfusion.dev/javascript-pack.html](https://mindfusion.dev/javascript-pack.html).
+The product's web page is and it is part of MindFusion Pack for JavaScript, which can be downloaded at [https://mindfusion.dev/javascript-pack.html](https://mindfusion.dev/javascript-pack.html).
 
 ## Getting Started
 
