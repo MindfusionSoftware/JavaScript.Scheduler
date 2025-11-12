@@ -1,14 +1,16 @@
-# MindFusion.Scheduling for JavaScript: Create Interactive HTML5 Calendars and Schedules
+# MindFusion.Scheduling for JavaScript: Interactive HTML5 Calendars and Schedules
 
 ## About MindFusion.Scheduling
 
 MindFusion.Scheduling for JavaScript is a lean and powerful interactive library that lets developers easily create **timetables, calendars with events, resource tables, task schedules, appointment lists** and much more. The control boasts an intuitive API with self-explanatory member names, detailed documentation and many samples. Numerous properties and flexible CSS styling through themes provide full control over the appearance of each item and schedule. All user actions are reported by events. Various built-in forms provide convenient way for the users to create, edit and delete items, recurrences, reminders and appointments.
 
+The product's web page is [https://mindfusion.dev/javascript-scheduler.html](https://mindfusion.dev/javascript-scheduler.html) and it is part of MindFusion Pack for JavaScript, which can be downloaded at [https://mindfusion.dev/javascript-pack.html](https://mindfusion.dev/javascript-pack.html).
+
 ## Getting Started
 
 To run the samples locally:
 
-1.  Navigate to the project root directory: `D:\Projects\GitHub\JavaScript.Scheduler`
+1.  Navigate to the project root directory.
 2.  Run `npm start` in your terminal. This will launch a local web server and open the samples in your default browser.
 
 ## Features
@@ -101,5 +103,5 @@ Telephone for technical support:
 
 ## Copyrights
 
-Copyright (C) 2018-2025, MindFusion LLC, Bulgaria
+Copyright (C) 2025, MindFusion LLC, Bulgaria
 All rights reserved.
